@@ -1,4 +1,4 @@
-### Olá! Eu sou a Giovanna Gil 👋
+### Olá! Eu sou a Gio 👋
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovannaagil)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-gil-2227131b1/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADFnynoBcwDzVWfA21Q0QO3CqAEkiHCmF3Y)
